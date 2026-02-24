@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlantCatalogAPI_Shubham")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7640365dfc75fa388e9453286cfd9c4a10ea86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+769fba0447a1e420e2c04f24eaafa94bec948bcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlantCatalogAPI_Shubham")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlantCatalogAPI_Shubham")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

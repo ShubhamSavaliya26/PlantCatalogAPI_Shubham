@@ -1,0 +1,6 @@
+@PlantCatalogAPI_Shubham_HostAddress = http://localhost:5051
+
+GET {{PlantCatalogAPI_Shubham_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

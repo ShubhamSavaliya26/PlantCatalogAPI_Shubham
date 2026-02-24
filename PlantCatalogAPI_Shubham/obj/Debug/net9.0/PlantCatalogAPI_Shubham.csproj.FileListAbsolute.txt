@@ -34,3 +34,4 @@ C:\Users\shubh\source\repos\PlantCatalogAPI_Shubham\PlantCatalogAPI_Shubham\obj\
 C:\Users\shubh\source\repos\PlantCatalogAPI_Shubham\PlantCatalogAPI_Shubham\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\shubh\source\repos\PlantCatalogAPI_Shubham\PlantCatalogAPI_Shubham\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\shubh\source\repos\PlantCatalogAPI_Shubham\PlantCatalogAPI_Shubham\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shubh\source\repos\PlantCatalogAPI_Shubham\PlantCatalogAPI_Shubham\obj\Debug\net9.0\PlantCatalogAPI_Shubham.sourcelink.json
